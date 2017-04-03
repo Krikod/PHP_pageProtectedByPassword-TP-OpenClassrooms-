@@ -1,12 +1,12 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 
 <!-- Créer un formulaire qui appellera la page protégée et lui enverra le mot de passe -->
 
 <html>
-<head>
-	<meta charset="utf-8">
-	<title>Page protégée par mdp</title>
-</head>
+	<head>
+		<meta charset="utf-8">
+		<title>Page protégée par mdp</title>
+	</head>
 <body>
 	<p>
 		Veuillez entrer votre mot de passe:<br />
